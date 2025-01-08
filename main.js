@@ -12,7 +12,7 @@
         const message = document.getElementById('message').value;
 
         // Send email using EmailJS
-        emailjs.send("service_gjea4sh", "template_1x7kptq", {
+        emailjs.send("service_gjea4sh", "template_7z5sgvx", {
             from_name: name,
             from_email: email,
             message: message
