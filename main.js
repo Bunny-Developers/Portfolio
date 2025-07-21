@@ -25,4 +25,5 @@
             alert('Failed to send message. Please try again later.');
         });
     });
+document.getElementByClassName('copy').innerHTML = new Date().getFullYear();
 
